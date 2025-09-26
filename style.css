@@ -1,0 +1,55 @@
+body {
+    background-color: burlywood;
+}
+
+h1, h3 {
+    text-align: center;
+    font-family: "Alegreya", serif;
+    color: blanchedalmond
+}
+
+#bargello {
+    width: 500px;
+    position: relative;
+    left: 130px;
+}
+
+#disc {
+    text-align: center;
+    font-style: italic;
+}
+
+th {
+    text-align: center;
+    font-family: "Alegreya", serif;
+    color: blanchedalmond
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#don {
+    float: left;
+    padding: 50px;
+}
+
+p {
+    padding-left: 40px;
+    padding-right: 40px
+}
+
+li {
+    padding-right: 40px;
+}
+
+#verdict {
+    text-align: center;
+    list-style-type: none;
+}
+
+td {
+    padding: 3px;
+}
